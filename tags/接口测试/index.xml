@@ -291,8 +291,13 @@
 <h3 id="今日工作汇报">今日工作汇报</h3>
 <p>领导把我薅到济南分部来了，今天跟领导沟通了挺多关于服务端质量保障体系相关的东西</p>
 <p>在这边儿倒是停清闲，不过宾馆桌子太小了，还没插座😭，明天在公司多呆会儿</p>
-<p></p>
-<p></p>
+<a class="lightgallery" href="/img/6EB9B7A5-619F-4A43-B634-0B1C01A19CDA.jpeg" title="/img/6EB9B7A5-619F-4A43-B634-0B1C01A19CDA.jpeg" data-thumbnail="/img/6EB9B7A5-619F-4A43-B634-0B1C01A19CDA.jpeg">
+        
+    </a>
+<figure><a class="lightgallery" href="/img/1CF695B2-456D-45A9-B80B-9639E8B46CAC.jpeg" title="/img/1CF695B2-456D-45A9-B80B-9639E8B46CAC.jpeg" data-thumbnail="/img/1CF695B2-456D-45A9-B80B-9639E8B46CAC.jpeg" data-sub-html="<h2>Lighthouse (image)</h2>">
+        
+    </a><figcaption class="image-caption">Lighthouse (<code>image</code>)</figcaption>
+    </figure>
 <p>嘿嘿，可以没有鼠标，但是不能没有键盘</p>
 <p>废话不说了，汇报工作正式开始</p>
 <h4 id="修改yaml配置文件">修改<code>yaml</code>配置文件</h4>
@@ -361,7 +366,9 @@
 <ul>
 <li>2.今天把读取配置文件的写完了，贴个图吧，写的太烂，面向<code>struct</code>编程理解的太浅（看图得新建个标签页😂，这个模板图片放大不了）</li>
 </ul>
-<p></p>
+<a class="lightgallery" href="/img/image20210412215219.png" title="/img/image20210412215219.png" data-thumbnail="/img/image20210412215219.png">
+        
+    </a>
 ]]></description>
 </item></channel>
 </rss>

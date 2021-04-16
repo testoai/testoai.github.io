@@ -100,9 +100,9 @@ case2:
 
 在这边儿倒是停清闲，不过宾馆桌子太小了，还没插座:sob:，明天在公司多呆会儿
 
-![image-20210412204407818](/img/6EB9B7A5-619F-4A43-B634-0B1C01A19CDA.jpeg)
+{{< image src="/img/6EB9B7A5-619F-4A43-B634-0B1C01A19CDA.jpeg" src_s="/img/6EB9B7A5-619F-4A43-B634-0B1C01A19CDA.jpeg" src_l="/img/6EB9B7A5-619F-4A43-B634-0B1C01A19CDA.jpeg" >}}
 
-![image-20210412204407818](/img/1CF695B2-456D-45A9-B80B-9639E8B46CAC.jpeg)
+{{< image src="/img/1CF695B2-456D-45A9-B80B-9639E8B46CAC.jpeg" caption="Lighthouse (`image`)" src_s="/img/1CF695B2-456D-45A9-B80B-9639E8B46CAC.jpeg" src_l="/img/1CF695B2-456D-45A9-B80B-9639E8B46CAC.jpeg" >}}
 
 嘿嘿，可以没有鼠标，但是不能没有键盘
 
@@ -145,6 +145,6 @@ case1: '{
 
 - 2.今天把读取配置文件的写完了，贴个图吧，写的太烂，面向`struct`编程理解的太浅（看图得新建个标签页:joy:，这个模板图片放大不了）
 
-![image-20210412204407818](/img/image20210412215219.png)
+{{< image src="/img/image20210412215219.png">}}
 
 

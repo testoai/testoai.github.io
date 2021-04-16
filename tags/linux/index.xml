@@ -189,7 +189,9 @@ src/redis.conf
 <li>使用：<code>/要查找的内容</code></li>
 <li>使用<code>vim /文件名</code>打开文件后，输入<code>/</code>要查找的内容即可，比如下面我要在<code>redis.conf</code>配置文件中查找<code>bind</code>关键字</li>
 </ul>
-<p></p>
+<a class="lightgallery" href="/img/image-20210410145934938.png" title="/img/image-20210410145934938.png" data-thumbnail="/img/image-20210410145934938.png">
+        
+    </a>
 <ul>
 <li>
 <p>然后可以输入回车，会查找到该文件中第一个<code>bind</code>，可以输入<code>n</code>定位到下一个，输入<code>N</code>定位到上一个</p>
